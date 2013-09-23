@@ -1,0 +1,8 @@
+h1. Rotation of TeX boxes
+
+Animation of the rotation of TeX boxes with command \rotate from package graphicx. Used in the course "Usando LaTeX; pensando em TeX":http://moodle.stoa.usp.br/course/view.php?id=104 (using LaTeX; thinking in TeX).
+
+h3. Dependencies
+
+* "Batik toolkit":http://xmlgraphics.apache.org/batik/
+* "CEPALib":https://github.com/cepa-usp/cepalib-java
